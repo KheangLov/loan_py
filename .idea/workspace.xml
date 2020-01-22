@@ -24,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Webubhav8eB2SWQFKeeqdpL2J0" />
   <component name="ProjectViewState">
@@ -81,8 +82,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.algo" />
       <item itemvalue="Python.form" />
+      <item itemvalue="Python.algo" />
     </list>
     <recent_temporary>
       <list>
@@ -132,6 +133,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="496" y="33" key="#form/0.0.1536.834@0.0.1536.834" timestamp="1579589241637" />
+    <state x="424" y="12" key="CommitChangelistDialog2" timestamp="1579676751085">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="424" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1579676751085" />
     <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1579589475160">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -156,9 +161,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579676669884" />
-    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579676689115">
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579676764570">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1579676689115" />
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1579676764570" />
   </component>
 </project>
